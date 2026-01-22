@@ -12,8 +12,7 @@ This project contains a series of Python programming tasks designed to test and 
 ## Instructions
 1. Ensure Python 3.x is installed.
 2. Install required dependencies:
-   ```bash
-   pip install requests
+ 
 # Most challenging
    Handling edge cases like empty lists, invalid indices, and unexpected API responses.
 

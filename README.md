@@ -14,11 +14,14 @@ This project contains a series of Python programming tasks designed to test and 
 2. Install required dependencies:
    ```bash
    pip install requests
-# Most challenging: Handling edge cases like empty lists, invalid indices, and unexpected API responses.
+# Most challenging
+   Handling edge cases like empty lists, invalid indices, and unexpected API responses.
 
-# Most interesting: Fetching and processing live API data and seeing real results in Python.
+# Most interesting:
+   Fetching and processing live API data and seeing real results in Python.
 
-# One thing I learned/improved: Enhanced skills in debugging, error handling, and managing multiple Git branches effectively.#
+# One thing I learned/improved: 
+   Enhanced skills in debugging, error handling, and managing multiple Git branches effectively.#
 
 
 
